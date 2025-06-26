@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 What It Does
+## What It Does
 
 - Trains a basic Q-learning agent in a toy gridworld
 - Introduces a reward vulnerability (a high-reward “hack tile”)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧪 Key Results
+## Results
 
 | No Hack Detected | With Reward Hack Enabled |
 |------------------|--------------------------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/yourusername/reward-hacker-sim.git
