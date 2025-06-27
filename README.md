@@ -1,4 +1,4 @@
-# 🧠 RewardHackerSim
+# RewardHackerSim
 
 **RewardHackerSim** is a simple and visual Python project that simulates reward hacking in reinforcement learning. It showcases how an RL agent might exploit flawed reward functions, a core challenge in AI alignment and safety research.
 
